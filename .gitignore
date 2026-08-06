@@ -19,3 +19,5 @@ credentials.json
 # Backup archives
 *.7z
 *.bak
+_release_staging/
+InputStudio-custom-win64.zip

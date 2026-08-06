@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# Secrets / local data (never commit)
+.env
+*.env
+credentials.json
+**/project.json
+**/*.pdf
+**/*.zip
+
+# Backup archives
+*.7z
+*.bak
